@@ -1,0 +1,519 @@
+team_name,team_id,player_name,player_id,position,birth_date,birth_place,first_nationality,preferred_foot,weight,height,jersey_num,real_position,real_position_side,join_date,leave_date,new_team,country,transfer
+Arsenal,3,David Ospina,48844,Goalkeeper,1988-08-31,Medellín,Colombia,Right,80,183,13,Goalkeeper,Unknown,2014-07-28,,,Colombia,No
+Arsenal,3,Emiliano Martinez,98980,Goalkeeper,1992-09-02,,,,89,183,26,Goalkeeper,Unknown,2011-07-01,,,Argentina,No
+Arsenal,3,Petr Cech,11334,Goalkeeper,1982-05-20,,,,90,196,33,Goalkeeper,Unknown,2015-07-02,,,Czech Republic,No
+Arsenal,3,Mathieu Debuchy,27334,Defender,1985-07-28,Fretin,France,,76,177,2,Full Back,Right,2014-07-17,,,France,No
+Arsenal,3,Kieran Gibbs,42427,Defender,1989-09-26,,,,70,178,3,Full Back,Left,2006-07-01,,,England,No
+Arsenal,3,Per Mertesacker,17127,Defender,1984-09-29,Hannover,Germany,Right,90,198,4,Central Defender,Centre,2011-08-31,,,Germany,No
+Arsenal,3,Gabriel,158074,Defender,1990-11-26,,,Right,72,185,5,Central Defender,Centre,2015-01-28,,,Brazil,No
+Arsenal,3,Laurent Koscielny,51507,Defender,1985-09-10,Tulle,France,,75,186,6,Central Defender,Centre,2010-07-07,,,France,No
+Arsenal,3,Rob Holding,156074,Defender,1995-09-20,Tameside,England,Right,90,185,16,Central Defender,Centre,2016-07-22,,,England,No
+Arsenal,3,Nacho Monreal,38411,Defender,1986-02-26,Pamplona,Spain,Left,72,178,18,Full Back,Left,2013-01-31,,,Spain,No
+Arsenal,3,Calum Chambers,101184,Defender,1995-01-20,,,,66,183,21,Central Defender,Centre/Right,2014-07-28,,,England,No
+Arsenal,3,Héctor Bellerín,98745,Defender,1995-03-19,,,,74,177,24,Full Back,Right,2012-07-01,,,Spain,No
+Arsenal,3,Carl Jenkinson,80254,Defender,1992-02-08,,England,,77,185,25,Full Back,Right,2011-06-09,,,England,No
+Arsenal,3,Aaron Ramsey,41792,Midfielder,1990-12-26,,,,76,178,8,Central Midfielder,Centre,2008-07-01,,,Wales,No
+Arsenal,3,Jack Wilshere,54102,Midfielder,1992-01-01,Stevenage,England,,68,172,10,Central Midfielder,Left/Centre,2008-07-01,,,England,No
+Arsenal,3,Mesut Özil,37605,Midfielder,1988-10-15,Gelsenkirchen,Germany,Left,76,183,11,Attacking Midfielder,Centre/Right,2013-09-02,,,Germany,No
+Arsenal,3,Alex Oxlade-Chamberlain,81880,Midfielder,1993-08-15,Portsmouth,England,,70,180,15,Attacking Midfielder,Left/Centre/Right,2011-08-08,,,England,No
+Arsenal,3,Alex Iwobi,153133,Midfielder,1996-05-03,Lagos,Nigeria,,75,180,17,Attacking Midfielder,Left/Centre/Right,2013-07-01,,,Nigeria,No
+Arsenal,3,Santiago Cazorla,19524,Midfielder,1984-12-13,Asturias,Spain,Both,66,168,19,Attacking Midfielder,Left/Centre/Right,2012-08-07,,,Spain,No
+Arsenal,3,Serge Gnabry,133798,Midfielder,1995-07-14,,,,73,173,27,Winger,Left/Right,2012-07-01,,,Germany,No
+Arsenal,3,Granit Xhaka,84450,Midfielder,1992-09-27,Basel,Switzerland,Left,82,185,29,Central Midfielder,Centre,2016-07-01,,,Switzerland,No
+Arsenal,3,Jeff Reine-Adelaide,208987,Midfielder,1998-01-17,Champigny-sur-Marne,France,,75,184,31,Winger,Left/Right,2015-07-01,,,France,No
+Arsenal,3,Francis Coquelin,56864,Midfielder,1991-05-13,Laval,France,Right,74,178,34,Defensive Midfielder,Centre,2008-09-01,,,France,No
+Arsenal,3,Mohamed Elneny,153256,Midfielder,1992-07-11,,,,70,180,35,Defensive Midfielder,Centre,2016-01-14,,,Egypt,No
+Arsenal,3,Alexis Sánchez,37265,Forward,1988-12-19,Tocopilla,Chile,Both,62,168,7,Second Striker,Left/Right,2014-07-10,,,Chile,No
+Arsenal,3,Olivier Giroud,44346,Forward,1986-09-30,Chambéry,France,Left,88,192,12,Striker,Centre,2012-07-01,,,France,No
+Arsenal,3,Theo Walcott,20467,Forward,1989-03-16,,,,68,176,14,Second Striker,Centre/Right,2006-01-20,,,England,No
+Arsenal,3,Yaya Sanogo,80711,Forward,1993-01-27,Massy,France,,74,191,22,Striker,Centre,2013-07-01,,,France,No
+Arsenal,3,Danny Welbeck,50175,Forward,1990-11-26,Manchester,England,,73,185,23,Striker,Left/Centre/Right,2014-09-01,,,England,No
+Arsenal,3,Joel Campbell,99127,Forward,1992-06-26,San José,Costa Rica,Left,71,178,28,Striker,Left/Centre,2011-08-19,,,Costa Rica,No
+Arsenal,3,Chuba Akpom,147675,Forward,1995-10-09,,,,70,183,32,Striker,Centre,2012-07-01,,,England,No
+Bournemouth,91,Artur Boruc,18726,Goalkeeper,1980-02-20,Siedice,Poland,Right,89,193,1,Goalkeeper,Unknown,2015-07-01,,,Poland,No
+Bournemouth,91,Ryan Allsop,61302,Goalkeeper,1992-06-17,,,,87,186,21,Goalkeeper,Unknown,2013-01-18,,,England,No
+Bournemouth,91,Adam Federici,15885,Goalkeeper,1985-01-31,Nowra,Australia,,90,188,23,Goalkeeper,Unknown,2015-07-01,,,Australia,No
+Bournemouth,91,Simon Francis,15149,Defender,1985-02-16,,,,79,183,2,Full Back,Right,2012-01-06,,,England,No
+Bournemouth,91,Steve Cook,56917,Defender,1991-04-19,,,,83,185,3,Central Defender,Left/Centre/Right,2012-01-03,,,England,No
+Bournemouth,91,Nathan Aké,126184,Defender,1995-02-18,,,,75,180,5,Full Back,Left/Centre,2016-07-01,,,Netherlands,No
+Bournemouth,91,Charlie Daniels,41320,Defender,1986-09-07,,,,75,175,11,Full Back,Left,2012-01-03,,,England,No
+Bournemouth,91,Brad Smith,120447,Defender,1994-04-09,,Australia,,70,178,14,Full Back,Left,2016-07-27,,,Australia,No
+Bournemouth,91,Adam Smith,54469,Defender,1991-04-29,,,,74,178,15,Full Back,Right,2014-01-28,,,England,No
+Bournemouth,91,Tyrone Mings,149484,Defender,1993-03-13,,,,77,191,26,Full Back,Left/Centre,2015-06-26,,,England,No
+Bournemouth,91,Dan Gosling,40387,Midfielder,1990-02-01,,,,71,178,4,Central Midfielder,Centre/Right,2014-07-01,,,England,No
+Bournemouth,91,Andrew Surman,15237,Midfielder,1986-08-20,,South Africa,,73,180,6,Attacking Midfielder,Centre,2014-09-01,,,England,No
+Bournemouth,91,Marc Pugh,20037,Midfielder,1987-04-02,,,,72,180,7,Winger,Left/Right,2010-07-01,,,England,No
+Bournemouth,91,Harry Arter,48615,Midfielder,1989-12-28,,,,73,175,8,Central Midfielder,Centre,2010-07-01,,,Republic of Ireland,No
+Bournemouth,91,Lewis Cook,155408,Midfielder,1997-02-03,,,,66,175,18,Central Midfielder,Centre,2016-07-08,,,England,No
+Bournemouth,91,Junior Stanislas,56872,Midfielder,1989-11-26,,,,79,180,19,Winger,Left,2014-07-01,,,England,No
+Bournemouth,91,Emerson Hyndman,122342,Midfielder,1996-04-09,,,,61,172,22,Central Midfielder,Centre,2016-07-01,,,USA,No
+Bournemouth,91,Eunan O'Kane,80498,Midfielder,1990-07-10,,Northern Ireland,,69,173,32,Central Midfielder,Centre,2012-07-26,,,Republic of Ireland,No
+Bournemouth,91,Jordon Ibe,103912,Midfielder,1995-12-08,,,,81,176,33,Winger,Left/Right,2016-07-14,,,England,No
+Bournemouth,91,Benik Afobe,88498,Forward,1993-02-12,,,,79,183,9,Striker,Centre,2016-01-10,,,England,No
+Bournemouth,91,Max Gradel,59741,Forward,1987-11-30,Abidjan,Côte d'Ivoire,,69,175,10,Winger,Left/Right,2015-08-04,,,Côte d'Ivoire,No
+Bournemouth,91,Callum Wilson,75115,Forward,1992-02-27,,,,66,180,13,Striker,Centre,2014-07-06,,,England,No
+Bournemouth,91,Joshua King,78007,Forward,1992-01-15,,Norway,,83,185,17,Second Striker,Left/Centre/Right,2015-07-01,,,Norway,No
+Bournemouth,91,Lewis Grabban,21246,Forward,1988-01-12,,,,71,183,28,Striker,Centre,2016-01-11,,,England,No
+Bournemouth,91,Lys Mousset,178304,Forward,1996-02-08,Montivilliers,France,,80,184,31,Second Striker,Left/Centre/Right,2016-07-01,,,France,No
+Burnley,90,Tom Heaton,21205,Goalkeeper,1986-04-15,,,,85,188,1,Goalkeeper,Unknown,2013-07-01,,,England,No
+Burnley,90,Paul Robinson,1801,Goalkeeper,1979-10-15,,,,92,195,17,Goalkeeper,Unknown,2016-01-26,,,England,No
+Burnley,90,Nick Pope,98747,Goalkeeper,1992-04-19,,,,76,191,29,Goalkeeper,Unknown,2016-07-19,,,England,No
+Burnley,90,Jon Flanagan,91979,Defender,1993-01-01,Liverpool,England,,79,181,Unknown,Full Back,Right,2016-08-05,,,England,No
+Burnley,90,Matthew Lowton,68983,Defender,1989-06-09,,,,78,180,2,Unknown,Unknown,2015-06-22,,,England,No
+Burnley,90,Daniel Lafferty,80788,Defender,1989-05-18,,,,76,180,3,Full Back,Left,2012-01-30,,,Northern Ireland,No
+Burnley,90,Michael Keane,106611,Defender,1993-01-11,,,,68,172,5,Central Defender,Centre,2015-01-08,,,England,No
+Burnley,90,Ben Mee,51927,Defender,1989-09-21,,,,74,180,6,Full Back,Left,2012-07-01,,,England,No
+Burnley,90,Stephen Ward,40616,Defender,1985-08-20,,,,72,184,23,Full Back,Left,2014-08-15,,,Republic of Ireland,No
+Burnley,90,James Tarkowski,17761,Defender,1992-11-19,,,,81,185,26,Central Defender,Centre,2016-02-01,,,England,No
+Burnley,90,Tendayi Darikwa,85017,Defender,1991-12-13,,,,77,187,27,Wing Back,Right,2015-07-30,,,England,No
+Burnley,90,Dean Marney,15982,Midfielder,1984-01-31,,,,72,183,8,Central Midfielder,Centre,2010-05-28,,,England,No
+Burnley,90,Michael Kightly,15944,Midfielder,1986-01-24,,,,71,173,11,Winger,Left/Right,2014-07-01,,,England,No
+Burnley,90,David Jones,19556,Midfielder,1984-11-04,,,,80,183,14,Central Midfielder,Centre,2013-08-01,,,England,No
+Burnley,90,Fredrik Ulvestad,95508,Midfielder,1992-05-19,,,,79,183,20,Central Midfielder,Centre,2015-03-10,,,Norway,No
+Burnley,90,George Boyd,28244,Midfielder,1985-10-02,,,,79,186,21,Winger,Unknown,2014-09-01,,,Scotland,No
+Burnley,90,Johann Berg Gudmundsson,60586,Midfielder,1990-10-27,Reykjavik,Iceland,Left,78,186,25,Winger,Left,2016-07-19,,,Iceland,No
+Burnley,90,Scott Arfield,39158,Midfielder,1988-11-01,,,,70,178,37,Attacking Midfielder,Left/Centre/Right,2013-07-19,,,Canada,No
+Burnley,90,Andre Gray,73426,Forward,1991-06-26,,,,79,178,7,Striker,Centre,2015-08-21,,,England,No
+Burnley,90,Sam Vokes,40399,Forward,1989-10-21,,,,90,186,9,Striker,Centre,2012-07-31,,,Wales,No
+Burnley,90,Ashley Barnes,44699,Forward,1989-10-30,,England,,77,186,10,Striker,Centre,2014-01-10,,,Austria,No
+Burnley,90,Rouwen Hennings,37002,Forward,1987-08-28,Bad Oldesloe,Germany,Left,80,180,18,Striker,Centre,2015-08-14,,,Germany,No
+Burnley,90,Lukas Jutkiewicz,34654,Forward,1989-03-28,,,,78,185,19,Striker,Centre,2014-07-15,,,England,No
+Chelsea,8,Asmir Begovic,40349,Goalkeeper,1987-06-20,Trebinje,Bosnia and Herzegovina,,83,198,1,Goalkeeper,Unknown,2015-07-13,,,Bosnia and Herzegovina,No
+Chelsea,8,Thibaut Courtois,60772,Goalkeeper,1992-05-11,Bree,Belgium,Right,91,199,13,Goalkeeper,Unknown,2011-07-21,,,Belgium,No
+Chelsea,8,Jamal Blackman,108132,Goalkeeper,1993-10-27,,,,92,199,27,Goalkeeper,Unknown,2010-07-01,,,England,No
+Chelsea,8,Branislav Ivanovic,41135,Defender,1984-02-22,Sremska Mitrovica,Yugoslavia,Right,91,185,2,Central Defender,Centre/Right,2008-01-16,,,Serbia,No
+Chelsea,8,Kurt Zouma,103192,Defender,1994-10-27,,,,92,190,5,Central Defender,Centre,2014-01-31,,,France,No
+Chelsea,8,Matt Miazga,163793,Defender,1995-07-19,Clifton,USA,Right,84,191,20,Central Defender,Centre,2016-01-30,,,USA,No
+Chelsea,8,Gary Cahill,19419,Defender,1985-12-19,Dronfield,England,,86,193,24,Central Defender,Centre,2012-01-16,,,England,No
+Chelsea,8,John Terry,1718,Defender,1980-12-07,,,,90,187,26,Central Defender,Centre,1997-07-01,,,England,No
+Chelsea,8,César Azpilicueta,41328,Defender,1989-08-28,Pamplona,,,75,178,28,Full Back,Left/Right,2012-08-24,,,Spain,No
+Chelsea,8,Michael Hector,84915,Defender,1992-07-19,London,England,Right,82,193,30,Central Defender,Centre,2015-09-01,,,Jamaica,No
+Chelsea,8,Ola Aina,159506,Defender,1996-10-08,,,,65,175,34,Full Back,Right,2014-07-01,,,England,No
+Chelsea,8,Cesc Fàbregas,17878,Midfielder,1987-05-04,"Arenys de Mar, Barcelona",Spain,Right,74,175,4,Central Midfielder,Centre,2014-06-12,,,Spain,No
+Chelsea,8,N'Golo Kanté,116594,Midfielder,1991-03-29,,,,68,169,7,Central Midfielder,Centre,2016-07-16,,,France,No
+Chelsea,8,Oscar,61262,Midfielder,1991-09-09,São Paulo,Brazil,Right,67,179,8,Attacking Midfielder,Centre,2012-07-25,,,Brazil,No
+Chelsea,8,Eden Hazard,42786,Midfielder,1991-01-07,La Louvière,Belgium,,74,173,10,Attacking Midfielder,Left/Centre/Right,2012-07-01,,,Belgium,No
+Chelsea,8,John Obi Mikel,28495,Midfielder,1987-04-22,Jos,Nigeria,,83,188,12,Defensive Midfielder,Centre,2006-07-19,,,Nigeria,No
+Chelsea,8,Ruben Loftus-Cheek,126187,Midfielder,1996-01-23,,,,83,191,14,Central Midfielder,Centre,2012-07-01,,,England,No
+Chelsea,8,Victor Moses,49013,Midfielder,1990-12-12,Lagos,Nigeria,Both,75,177,15,Attacking Midfielder,Left/Right,2012-08-24,,,Nigeria,No
+Chelsea,8,Juan Cuadrado,66733,Midfielder,1988-05-26,Necoclí,Colombia,Right,71,178,17,Winger,Left/Right,2015-02-02,,,Colombia,No
+Chelsea,8,Nemanja Matic,62398,Midfielder,1988-08-01,Vrelo,Serbia,,84,194,21,Central Midfielder,Centre,2014-01-15,,,Serbia,No
+Chelsea,8,Willian,47431,Midfielder,1988-08-09,Ribeirão Pires,Brazil,Right,75,175,22,Attacking Midfielder,Left/Centre/Right,2013-08-28,,,Brazil,No
+Chelsea,8,Nathaniel Chalobah,89085,Midfielder,1994-12-12,,,,75,185,29,Defensive Midfielder,Centre/Right,2010-07-01,,,England,No
+Chelsea,8,Pedro,49579,Forward,1987-07-28,Santa Cruz de Tenerife,Spain,Both,62,167,11,Winger,Left/Right,2015-08-20,,,Spain,No
+Chelsea,8,Kenedy,167767,Forward,1996-02-08,,,,77,182,16,Striker,Centre,2015-07-27,,,Brazil,No
+Chelsea,8,Loïc Remy,38419,Forward,1987-01-02,Rillieux-la-Pape,France,,80,185,18,Striker,Left/Centre/Right,2014-08-31,,,France,No
+Chelsea,8,Diego Costa,18507,Forward,1988-10-07,Lagarto,Brazil,Both,85,188,19,Striker,Centre,2014-07-15,,,Spain,No
+Chelsea,8,Michy Batshuayi,94245,Forward,1993-10-02,Brussels,Belgium,,78,182,23,Striker,Centre,2016-07-03,,,Belgium,No
+Crystal Palace,31,Julian Speroni,11554,Goalkeeper,1979-05-18,,,,87,186,1,Goalkeeper,Unknown,2002-08-01,,,Argentina,No
+Crystal Palace,31,Wayne Hennessey,20066,Goalkeeper,1987-01-24,,,,90,198,13,Goalkeeper,Unknown,2014-01-31,,,Wales,No
+Crystal Palace,31,Steve Mandanda,44413,Goalkeeper,1985-03-28,,,,82,185,30,Goalkeeper,Unknown,2016-07-01,,,France,No
+Crystal Palace,31,Joel Ward,55494,Defender,1989-10-29,,,,80,180,2,Full Back,Right,2012-05-29,,,England,No
+Crystal Palace,31,James Tomkins,49413,Defender,1989-03-29,,,,74,191,5,Central Defender,Centre,2016-06-05,,,England,No
+Crystal Palace,31,Scott Dann,19188,Defender,1987-02-14,,,,76,188,6,Central Defender,Centre,2014-01-31,,,England,No
+Crystal Palace,31,Ezekiel Fryers,106603,Defender,1992-09-09,,,,75,183,19,Full Back,Left,2014-09-01,,,England,No
+Crystal Palace,31,Pape Souaré,79228,Defender,1990-06-06,,,,69,178,23,Full Back,Left,2015-01-30,,,Senegal,No
+Crystal Palace,31,Damien Delaney,7906,Defender,1981-07-20,,,,89,191,27,Central Defender,Centre,2012-08-31,,,Republic of Ireland,No
+Crystal Palace,31,Martin Kelly,58786,Defender,1990-04-27,,,Right,77,191,34,Full Back,Right,2014-08-14,,,England,No
+Crystal Palace,31,Yohan Cabaye,27341,Midfielder,1986-01-14,Tourcoing,France,,71,175,7,Central Midfielder,Centre,2015-07-10,,,France,No
+Crystal Palace,31,Yannick Bolasie,55452,Midfielder,1989-05-24,,France,,84,188,10,Winger,Left/Right,2012-08-24,,,Congo DR,No
+Crystal Palace,31,Wilfried Zaha,82403,Midfielder,1992-11-10,,Côte d'Ivoire,,66,180,11,Winger,Left/Right,2015-02-02,,,England,No
+Crystal Palace,31,Lee Chung-yong,75773,Midfielder,1988-07-02,Seoul,Korea Republic,,75,180,14,Winger,Right,2015-02-02,,,Korea Republic,No
+Crystal Palace,31,Mile Jedinak,59115,Midfielder,1984-08-03,Camperdown,Australia,Both,81,189,15,Central Midfielder,Centre,2011-07-11,,,Australia,No
+Crystal Palace,31,Joe Ledley,18805,Midfielder,1987-01-23,,Wales,,73,183,16,Central Midfielder,Left/Centre,2014-01-31,,,Wales,No
+Crystal Palace,31,Andros Townsend,60252,Midfielder,1991-07-16,,,,77,181,17,Winger,Left/Right,2016-07-01,,,England,No
+Crystal Palace,31,James McArthur,50471,Midfielder,1987-10-07,,,,64,168,18,Central Midfielder,Centre,2014-09-01,,,Scotland,No
+Crystal Palace,31,Jonathan Williams,103100,Midfielder,1993-10-09,,,,60,168,20,Attacking Midfielder,Left/Centre/Right,2011-07-01,,,Wales,No
+Crystal Palace,31,Jordon Mutch,49438,Midfielder,1991-12-02,,,,65,175,22,Central Midfielder,Left/Centre,2015-01-29,,,England,No
+Crystal Palace,31,Bakary Sako,44343,Midfielder,1988-04-26,,France,,76,180,26,Winger,Left/Right,2015-08-05,,,Mali,No
+Crystal Palace,31,Jason Puncheon,19197,Midfielder,1986-06-26,,,,70,173,42,Attacking Midfielder,Left/Centre/Right,2014-01-31,,,England,No
+Crystal Palace,31,Fraizer Campbell,28541,Forward,1987-09-13,,,,82,172,9,Striker,Centre,2014-07-25,,,England,No
+Crystal Palace,31,Connor Wickham,59125,Forward,1993-03-31,,,,90,191,21,Striker,Centre,2015-08-03,,,England,No
+Crystal Palace,31,Keshi Anderson,204216,Forward,1995-04-06,,,,Unknown,Unknown,24,Striker,Centre,2016-08-13,,,England,No
+Crystal Palace,31,Freddie Ladapo,94926,Forward,1993-02-01,,England,,80,183,36,Striker,Centre,2016-08-12,,,England,No
+Everton,11,Joel Robles,78315,Goalkeeper,1990-06-17,Madrid,Spain,Right,90,195,1,Goalkeeper,Unknown,2013-07-10,,,Spain,No
+Everton,11,Maarten Stekelenburg,10318,Goalkeeper,1982-09-22,Haarlem,Netherlands,Right,92,197,22,Goalkeeper,Unknown,2016-07-01,,,Netherlands,No
+Everton,11,Leighton Baines,12745,Defender,1984-12-11,Kirkby,England,,74,170,3,Full Back,Left,2007-08-07,,,England,No
+Everton,11,Ashley Williams,19159,Defender,1984-08-23,,,,77,183,5,Central Defender,Centre,2016-08-10,,,Wales,No
+Everton,11,Phil Jagielka,7645,Defender,1982-08-17,Manchester,England,,83,183,6,Central Defender,Centre,2007-07-04,,,England,No
+Everton,11,Bryan Oviedo,77762,Defender,1990-02-18,San José,Costa Rica,Left,69,172,20,Full Back,Left,2012-08-31,,,Costa Rica,No
+Everton,11,Seamus Coleman,59949,Defender,1988-10-11,,Republic of Ireland,,67,178,23,Full Back,Right,2009-02-02,,,Republic of Ireland,No
+Everton,11,Ramiro Funes Mori,121221,Defender,1991-03-05,Mendoza,Argentina,Left,74,185,25,Central Defender,Centre,2015-09-01,,,Argentina,No
+Everton,11,Mason Holgate,194164,Defender,1996-10-22,,,,63,181,30,Central Defender,Centre,2015-08-25,,,England,No
+Everton,11,Brendan Galloway,108824,Defender,1996-03-17,,,,87,188,32,Full Back,Left/Centre,2014-08-02,,,England,No
+Everton,11,Darron Gibson,27707,Midfielder,1987-10-25,,,,90,183,4,Central Midfielder,Centre,2012-01-13,,,Republic of Ireland,No
+Everton,11,Ross Barkley,88894,Midfielder,1993-12-05,Liverpool,England,,76,189,8,Attacking Midfielder,Left/Centre/Right,2010-09-01,,,England,No
+Everton,11,Kevin Mirallas,26901,Midfielder,1987-10-05,Liège,Belgium,,68,179,11,Winger,Left/Right,2012-08-19,,,Belgium,No
+Everton,11,Aaron Lennon,17349,Midfielder,1987-04-16,,,,63,165,12,Winger,Right,2015-09-01,,,England,No
+Everton,11,Tom Cleverley,43250,Midfielder,1989-08-12,Basingstoke,England,,67,175,15,Central Midfielder,Centre,2015-07-01,,,England,No
+Everton,11,James McCarthy,50472,Midfielder,1990-11-12,,,,72,180,16,Central Midfielder,Centre,2013-09-02,,,Republic of Ireland,No
+Everton,11,Idrissa Gueye,80801,Midfielder,1989-09-26,,,,66,174,17,Defensive Midfielder,Centre,2016-08-02,,,Senegal,No
+Everton,11,Gareth Barry,1632,Midfielder,1981-02-23,,,,78,183,18,Central Midfielder,Centre,2014-07-08,,,England,No
+Everton,11,Muhamed Besic,87447,Midfielder,1992-09-10,Berlin,Germany,,80,180,21,Defensive Midfielder,Centre,2014-07-28,,,Bosnia and Herzegovina,No
+Everton,11,Tom Davies,173807,Midfielder,1998-06-30,,,,78,179,26,Central Midfielder,Centre,2016-04-15,,,England,No
+Everton,11,Gerard Deulofeu,94924,Forward,1994-03-13,Girona,Spain,Right,68,171,7,Second Striker,Left/Centre/Right,2015-07-01,,,Spain,No
+Everton,11,Arouna Koné,26921,Forward,1983-11-11,Anyama,Côte d'Ivoire,Right,78,182,9,Striker,Centre,2013-07-08,,,Côte d'Ivoire,No
+Everton,11,Romelu Lukaku,66749,Forward,1993-05-13,Antwerp,Belgium,,94,190,10,Striker,Centre,2014-07-30,,,Belgium,No
+Everton,11,Shani Tarashaj,179141,Forward,1995-02-07,,,,76,176,24,Striker,Centre,2016-01-07,,,Switzerland,No
+Hull City,88,Allan McGregor,12390,Goalkeeper,1982-01-31,,,,74,183,1,Goalkeeper,Unknown,2013-07-02,,,Scotland,No
+Hull City,88,Dusan Kuciak,19812,Goalkeeper,1985-05-21,,,,89,195,12,Goalkeeper,Unknown,2016-02-01,,,Slovakia,No
+Hull City,88,Eldin Jakupovic,11974,Goalkeeper,1984-10-02,,,,78,188,16,Goalkeeper,Unknown,2012-07-09,,,Switzerland,No
+Hull City,88,Andrew Robertson,122798,Defender,1994-03-11,,,,64,178,3,Full Back,Left,2014-07-29,,,Scotland,No
+Hull City,88,Alex Bruce,19687,Defender,1984-09-28,,England,,73,180,4,Central Defender,Centre/Right,2012-07-29,,,Northern Ireland,No
+Hull City,88,Harry Maguire,95658,Defender,1993-03-05,,,,79,188,5,Central Defender,Centre,2014-07-29,,,England,No
+Hull City,88,Curtis Davies,19115,Defender,1985-03-15,,,,76,188,6,Central Defender,Centre,2013-07-01,,,England,No
+Hull City,88,Michael Dawson,12679,Defender,1983-11-18,,,,76,188,21,Central Defender,Centre,2014-08-26,,,England,No
+Hull City,88,Ahmed Elmohamady,37339,Defender,1987-09-09,,,,81,180,27,Wing Back,Right,2013-07-01,,,Egypt,No
+Hull City,88,Josh Tymon,221267,Defender,1999-05-22,,,,74,178,28,Unknown,Unknown,2016-01-29,,,England,No
+Hull City,88,Brian Lenihan,171982,Defender,1994-06-08,,,,78,187,31,Full Back,Right,2014-08-31,,,Republic of Ireland,No
+Hull City,88,Moses Odubajo,88898,Midfielder,1993-07-28,,England,,72,177,2,Wing Back,Right,2015-08-07,,,England,No
+Hull City,88,David Meyler,53371,Midfielder,1989-05-29,Cork,Republic of Ireland,,81,189,7,Central Midfielder,Centre,2012-11-08,,,Republic of Ireland,No
+Hull City,88,Tom Huddlestone,15109,Midfielder,1986-12-28,,,,80,180,8,Central Midfielder,Centre,2013-08-14,,,England,No
+Hull City,88,Robert Snodgrass,18987,Midfielder,1987-09-07,,,,82,182,10,Attacking Midfielder,Left/Right,2014-07-01,,,Scotland,No
+Hull City,88,Sam Clucas,74033,Midfielder,1990-09-25,,,,75,178,11,Winger,Unknown,2015-07-30,,,England,No
+Hull City,88,Jake Livermore,49944,Midfielder,1989-11-14,,,,76,180,14,Central Midfielder,Centre,2014-07-01,,,England,No
+Hull City,88,Shaun Maloney,9110,Midfielder,1983-01-24,,,,69,173,15,Attacking Midfielder,Left/Centre/Right,2015-08-27,,,Scotland,No
+Hull City,88,Greg Olley,155509,Midfielder,1996-02-02,,,,Unknown,Unknown,36,Central Midfielder,Centre,2016-08-13,,,England,No
+Hull City,88,Josh Clackstone,213384,Midfielder,1996-09-18,,,,Unknown,Unknown,37,Central Midfielder,Centre,2016-06-01,,,England,No
+Hull City,88,Abel Hernández,59856,Forward,1990-08-08,Pando,Uruguay,Left,70,185,9,Striker,Centre,2014-09-01,,,Uruguay,No
+Hull City,88,Adama Diomande,111847,Forward,1990-02-14,,,,75,180,20,Striker,Centre,2015-09-01,,,Norway,No
+Hull City,88,Jarrod Bowen,178186,Forward,1996-12-20,,,,Unknown,Unknown,29,Striker,Centre,2016-08-13,,,England,No
+Hull City,88,Greg Luer,202174,Forward,1994-12-06,,,,73,180,32,Striker,Centre,2015-01-03,,,England,No
+Leicester City,13,Kasper Schmeichel,17745,Goalkeeper,1986-11-05,,,,84,189,1,Goalkeeper,Unknown,2011-06-27,,,Denmark,No
+Leicester City,13,Ben Hamer,38038,Goalkeeper,1987-11-20,,,,78,193,12,Goalkeeper,Unknown,2014-07-01,,,England,No
+Leicester City,13,Ron-Robert Zieler,51934,Goalkeeper,1989-02-12,Köln,Germany,Right,83,188,21,Goalkeeper,Unknown,2016-07-01,,,Germany,No
+Leicester City,13,Luis Hernández,130025,Defender,1989-04-14,,Spain,,74,182,2,Central Defender,Centre/Right,2016-07-01,,,Spain,No
+Leicester City,13,Ben Chilwell,172850,Defender,1996-12-21,,,,76,178,3,Full Back,Left,2015-07-01,,,England,No
+Leicester City,13,Wes Morgan,15033,Defender,1984-01-21,Nottingham,England,Right,93,185,5,Central Defender,Centre,2012-01-30,,,Jamaica,No
+Leicester City,13,Robert Huth,12413,Defender,1984-08-18,,,,80,191,6,Central Defender,Centre,2015-06-24,,,Germany,No
+Leicester City,13,Danny Simpson,40725,Defender,1987-01-04,,,,74,178,17,Full Back,Right,2014-08-30,,,England,No
+Leicester City,13,Marcin Wasilewski,37388,Defender,1980-06-09,,,,88,186,27,Central Defender,Centre/Right,2013-09-17,,,Poland,No
+Leicester City,13,Christian Fuchs,37402,Defender,1986-04-07,Neunkirchen,Austria,Left,86,186,28,Full Back,Left,2015-07-01,,,Austria,No
+Leicester City,13,Daniel Drinkwater,61603,Midfielder,1990-03-05,,,,70,178,4,Central Midfielder,Centre,2012-01-19,,,England,No
+Leicester City,13,Matthew James,61604,Midfielder,1991-07-22,,,,76,183,8,Central Midfielder,Centre,2012-07-01,,,England,No
+Leicester City,13,Andy King,13152,Midfielder,1988-10-29,,,,75,183,10,Attacking Midfielder,Centre,2007-07-01,,,Wales,No
+Leicester City,13,Marc Albrighton,51938,Midfielder,1989-11-18,,England,,67,175,11,Winger,Left/Right,2014-07-01,,,England,No
+Leicester City,13,Daniel Amartey,155569,Midfielder,1994-12-21,,,,76,182,13,Defensive Midfielder,Centre,2016-01-22,,,Ghana,No
+Leicester City,13,Bartosz Kapustka,165911,Midfielder,1996-12-23,Tarnow,Poland,,60,179,14,Winger,Left/Right,2016-08-03,,,Poland,No
+Leicester City,13,Jeffrey Schlupp,86417,Midfielder,1992-12-23,Hamburg,Germany,,72,178,15,Winger,Left,2010-07-01,,,Ghana,No
+Leicester City,13,Demarai Gray,172632,Midfielder,1996-06-28,,,,66,179,22,Winger,Left/Right,2016-01-04,,,England,No
+Leicester City,13,Nampalys Mendy,86881,Midfielder,1992-06-23,,,,68,168,24,Defensive Midfielder,Centre,2016-07-03,,,France,No
+Leicester City,13,Riyad Mahrez,103025,Midfielder,1991-02-21,Sarcelles,France,,61,179,26,Winger,Left/Right,2014-01-11,,,Algeria,No
+Leicester City,13,Ahmed Musa,90714,Forward,1992-10-14,Jos,Nigeria,,62,170,7,Striker,Centre,2016-07-08,,,Nigeria,No
+Leicester City,13,Jamie Vardy,101668,Forward,1987-01-11,,,,76,178,9,Striker,Centre,2012-07-01,,,England,No
+Leicester City,13,Shinji Okazaki,78412,Forward,1986-04-16,Takarazuka,Japan,Right,76,174,20,Striker,Centre,2015-07-01,,,Japan,No
+Leicester City,13,Leonardo Ulloa,54316,Forward,1986-07-26,Río Negro,Argentina,Right,80,190,23,Striker,Centre,2014-07-22,,,Argentina,No
+Liverpool,14,Loris Karius,104542,Goalkeeper,1993-06-22,Biberach,Germany,Right,75,189,1,Goalkeeper,Unknown,2016-07-01,,,Germany,No
+Liverpool,14,Alexander Manninger,1616,Goalkeeper,1977-06-04,Salzburg,Austria,Right,85,189,13,Goalkeeper,Unknown,2016-07-22,,,Austria,No
+Liverpool,14,Simon Mignolet,66797,Goalkeeper,1988-03-06,Sint-Truiden,Belgium,,87,193,22,Goalkeeper,Unknown,2013-06-26,,,Belgium,No
+Liverpool,14,Nathaniel Clyne,57328,Defender,1991-04-05,,,,67,175,2,Full Back,Right,2015-07-01,,,England,No
+Liverpool,14,Mamadou Sakho,40784,Defender,1990-02-13,Paris,France,,83,187,3,Central Defender,Left/Centre,2013-09-02,,,France,No
+Liverpool,14,Dejan Lovren,38454,Defender,1989-07-05,Zenica,Bosnia and Herzegovina,Both,84,188,6,Central Defender,Centre,2014-07-27,,,Croatia,No
+Liverpool,14,Joseph Gomez,171287,Defender,1997-05-23,,,,77,188,12,Central Defender,Left/Centre/Right,2015-06-20,,,England,No
+Liverpool,14,Ragnar Klavan,33871,Defender,1985-10-30,Viljandi,Estonia,Left,85,187,17,Central Defender,Left/Centre,2016-07-20,,,Estonia,No
+Liverpool,14,Alberto Moreno,100059,Defender,1992-07-05,Sevilla,Spain,Left,65,170,18,Full Back,Left,2014-08-16,,,Spain,No
+Liverpool,14,Tiago Ilori,102548,Defender,1993-02-26,London,England,,80,190,26,Central Defender,Centre,2013-09-02,,,Portugal,No
+Liverpool,14,Joel Matip,60914,Defender,1991-08-08,Bochum,Germany,Right,90,195,32,Central Defender,Centre,2016-07-01,,,Cameroon,No
+Liverpool,14,Kevin Stewart,106449,Defender,1993-09-07,,,,73,171,35,Full Back,Right,2014-07-01,,,England,No
+Liverpool,14,Andre Wisdom,89088,Defender,1993-05-09,,,,78,186,47,Full Back,Centre/Right,2010-07-01,,,England,No
+Liverpool,14,Connor Randall,134383,Defender,1995-10-21,,,,76,180,56,Full Back,Right,2015-09-17,,,England,No
+Liverpool,14,Trent Alexander-Arnold,169187,Defender,1998-10-07,,,,Unknown,178,66,Full Back,Centre/Right,2015-07-01,,,England,No
+Liverpool,14,Georginio Wijnaldum,41733,Midfielder,1990-11-11,Rotterdam,Netherlands,,69,175,5,Attacking Midfielder,Left/Centre/Right,2016-07-22,,,Netherlands,No
+Liverpool,14,James Milner,15157,Midfielder,1986-01-04,Leeds,England,,70,175,7,Central Midfielder,Left/Centre/Right,2015-07-01,,,England,No
+Liverpool,14,Philippe Coutinho,84583,Midfielder,1992-06-12,Rio de Janeiro,Brazil,Right,71,171,10,Attacking Midfielder,Left/Centre,2013-01-30,,,Brazil,No
+Liverpool,14,Jordan Henderson,56979,Midfielder,1990-06-17,Sunderland,England,,67,182,14,Central Midfielder,Centre/Right,2011-06-09,,,England,No
+Liverpool,14,Marko Grujic,210237,Midfielder,1996-04-13,,,,75,190,16,Central Midfielder,Centre,2016-01-05,,,Serbia,No
+Liverpool,14,Sadio Mané,110979,Midfielder,1992-04-10,Sedihou,Senegal,Right,69,175,19,Attacking Midfielder,Left/Centre/Right,2016-06-28,,,Senegal,No
+Liverpool,14,Adam Lallana,39155,Midfielder,1988-05-10,St Albans,England,,73,172,20,Attacking Midfielder,Left/Centre/Right,2014-07-01,,,England,No
+Liverpool,14,Lucas Leiva,43191,Midfielder,1987-01-09,,,,74,179,21,Central Midfielder,Centre,2007-07-01,,,Brazil,No
+Liverpool,14,Emre Can,112338,Midfielder,1994-01-12,Frankfurt am Main,Germany,Right,82,184,23,Central Midfielder,Centre/Right,2014-07-03,,,Germany,No
+Liverpool,14,Lazar Markovic,99323,Midfielder,1994-03-02,Belgrade,Serbia,,65,175,50,Winger,Left/Right,2014-07-15,,,Serbia,No
+Liverpool,14,Sheyi Ojo,141921,Midfielder,1997-06-19,,,,64,177,54,Attacking Midfielder,Left/Centre/Right,2014-07-01,,,England,No
+Liverpool,14,Christian Benteke,54861,Forward,1990-12-03,Kinshasa,Congo DR,Right,83,190,9,Striker,Centre,2015-07-22,,,Belgium,No
+Liverpool,14,Roberto Firmino,92217,Forward,1991-10-02,Maceio,Brazil,Right,76,181,11,Second Striker,Left/Centre/Right,2015-07-01,,,Brazil,No
+Liverpool,14,Daniel Sturridge,40755,Forward,1989-09-01,Birmingham,England,,76,188,15,Striker,Centre,2013-01-02,,,England,No
+Liverpool,14,Divock Origi,152760,Forward,1995-04-18,Ostende,Belgium,,75,185,27,Striker,Centre,2014-07-29,,,Belgium,No
+Liverpool,14,Danny Ings,84939,Forward,1992-07-23,,,,73,178,28,Striker,Centre,2015-07-01,,,England,No
+Liverpool,14,Mario Balotelli,42493,Forward,1990-08-12,Palermo,Italy,Right,88,189,45,Striker,Centre,2014-08-25,,,Italy,No
+Manchester City,43,Joe Hart,15749,Goalkeeper,1987-04-19,Shrewsbury,England,,91,196,1,Goalkeeper,Unknown,2006-07-01,,,England,No
+Manchester City,43,Willy Caballero,20310,Goalkeeper,1981-09-28,Santa Elena,Argentina,Right,80,186,13,Goalkeeper,Unknown,2014-07-08,,,Argentina,No
+Manchester City,43,Angus Gunn,107265,Goalkeeper,1996-01-22,,,,77,188,54,Goalkeeper,Unknown,2016-07-01,,,England,No
+Manchester City,43,Bacary Sagna,37748,Defender,1983-02-14,Sens,France,,72,176,3,Full Back,Right,2014-07-01,,,France,No
+Manchester City,43,Vincent Kompany,17476,Defender,1986-04-10,Brussels,Belgium,,85,190,4,Central Defender,Centre,2008-08-22,,,Belgium,No
+Manchester City,43,Pablo Zabaleta,20658,Defender,1985-01-16,Buenos Aires,Argentina,Right,74,174,5,Full Back,Right,2008-08-31,,,Argentina,No
+Manchester City,43,Aleksandar Kolarov,42593,Defender,1985-11-10,Belgrado,Serbia,Left,83,187,11,Full Back,Left,2010-07-24,,,Serbia,No
+Manchester City,43,Eliaquim Mangala,57112,Defender,1991-02-13,Paris,France,Both,74,187,20,Central Defender,Centre,2014-08-11,,,France,No
+Manchester City,43,Gaël Clichy,17336,Defender,1985-07-26,,,,65,176,22,Full Back,Left,2011-07-04,,,France,No
+Manchester City,43,John Stones,97299,Defender,1994-05-28,Hemsworth,England,,70,188,24,Central Defender,Centre,2016-08-09,,,England,No
+Manchester City,43,Jason Denayer,160729,Defender,1995-06-28,,Belgium,,70,184,28,Central Defender,Centre,2014-07-01,,,Belgium,No
+Manchester City,43,Nicolás Otamendi,57410,Defender,1988-02-12,Buenos Aires,Argentina,Right,81,183,30,Central Defender,Centre,2015-08-20,,,Argentina,No
+Manchester City,43,Fernando,52538,Midfielder,1987-07-25,Brasília,Brazil,Right,76,183,6,Defensive Midfielder,Centre,2014-07-01,,,Brazil,No
+Manchester City,43,Samir Nasri,28554,Midfielder,1987-06-26,,,,75,175,8,Attacking Midfielder,Left/Centre/Right,2011-08-24,,,France,No
+Manchester City,43,Jesús Navas,17740,Midfielder,1985-11-21,Sevilla,Spain,Right,60,170,15,Winger,Right,2013-07-01,,,Spain,No
+Manchester City,43,Ilkay Gündogan,59859,Midfielder,1990-10-24,Gelsenkirchen,Germany,Right,80,180,16,Central Midfielder,Centre,2016-07-01,,,Germany,No
+Manchester City,43,Kevin De Bruyne,61366,Midfielder,1991-06-28,Drongen,Belgium,Right,68,181,17,Attacking Midfielder,Left/Centre/Right,2015-08-30,,,Belgium,No
+Manchester City,43,Fabian Delph,41823,Midfielder,1989-11-21,,,,60,174,18,Central Midfielder,Left/Centre,2015-07-17,,,England,No
+Manchester City,43,Leroy Sané,182156,Midfielder,1996-01-11,Essen,Germany,Left,75,183,19,Attacking Midfielder,Left/Centre,2016-08-02,,,Germany,No
+Manchester City,43,David Silva,20664,Midfielder,1986-01-08,Arguineguín,Spain,,67,173,21,Attacking Midfielder,Left/Centre/Right,2010-07-01,,,Spain,No
+Manchester City,43,Fernandinho,27789,Midfielder,1985-05-04,Londrina,Brazil,Right,67,179,25,Defensive Midfielder,Centre,2013-07-01,,,Brazil,No
+Manchester City,43,Oleksandr Zinchenko,206325,Midfielder,1996-12-15,,Ukraine,,64,175,35,Attacking Midfielder,Centre,2016-06-04,,,Ukraine,No
+Manchester City,43,Yaya Touré,14664,Midfielder,1983-05-13,Bouaké,Côte d'Ivoire,,90,189,42,Central Midfielder,Centre,2010-07-02,,,Côte d'Ivoire,No
+Manchester City,43,Raheem Sterling,103955,Forward,1994-12-08,Kingston,Jamaica,,69,170,7,Second Striker,Left/Centre/Right,2015-07-14,,,England,No
+Manchester City,43,Nolito,86173,Forward,1986-10-15,Sanlúcar de Barrameda,Spain,Right,65,175,9,Winger,Left,2016-07-01,,,Spain,No
+Manchester City,43,Sergio Agüero,37572,Forward,1988-06-02,Buenos Aires,Argentina,Both,70,173,10,Striker,Centre,2011-07-27,,,Argentina,No
+Manchester City,43,Wilfried Bony,57001,Forward,1988-12-10,Bingerville,Côte d'Ivoire,,84,182,14,Striker,Centre,2015-01-14,,,Côte d'Ivoire,No
+Manchester City,43,Kelechi Iheanacho,173515,Forward,1996-10-03,,,Left,77,187,72,Striker,Centre,2014-07-01,,,Nigeria,No
+Manchester United,1,David de Gea,51940,Goalkeeper,1990-11-07,Madrid,Spain,Right,76,192,1,Goalkeeper,Unknown,2011-07-01,,,Spain,No
+Manchester United,1,Sergio Romero,42899,Goalkeeper,1987-02-22,Bernardo de Irigoyen,Argentina,Right,87,192,20,Goalkeeper,Unknown,2015-07-24,,,Argentina,No
+Manchester United,1,Sam Johnstone,101982,Goalkeeper,1993-03-25,,,,85,193,32,Goalkeeper,Unknown,2011-07-01,,,England,No
+Manchester United,1,Eric Bailly,197365,Defender,1994-04-12,Bingerville,Côte d'Ivoire,,77,187,3,Central Defender,Centre,2016-07-01,,,Côte d'Ivoire,No
+Manchester United,1,Phil Jones,76359,Defender,1992-02-21,Preston,England,Right,72,185,4,Central Defender,Centre,2011-06-13,,,England,No
+Manchester United,1,Marcos Rojo,58893,Defender,1990-03-20,La Plata,Argentina,Left,80,187,5,Full Back,Left/Centre,2014-08-20,,,Argentina,No
+Manchester United,1,Chris Smalling,55909,Defender,1989-11-22,Greenwich,England,,81,192,12,Central Defender,Centre,2010-07-01,,,England,No
+Manchester United,1,Daley Blind,58877,Defender,1990-03-09,Amsterdam,Netherlands,Both,72,180,17,Central Defender,Left/Centre,2014-09-01,,,Netherlands,No
+Manchester United,1,Luke Shaw,106760,Defender,1995-07-12,Kingston upon Thames,England,,75,185,23,Full Back,Left,2014-07-01,,,England,No
+Manchester United,1,Timothy Fosu-Mensah,201084,Defender,1998-01-02,,,,78,190,24,Central Defender,Left/Centre/Right,2016-02-26,,,Netherlands,No
+Manchester United,1,Antonio Valencia,20695,Defender,1985-08-04,Lago Agrio,Ecuador,Right,83,181,25,Full Back,Right,2009-07-01,,,Ecuador,No
+Manchester United,1,Matteo Darmian,40002,Defender,1989-12-02,Legnano,Italy,Left,70,182,36,Full Back,Left/Right,2015-07-11,,,Italy,No
+Manchester United,1,Paul Pogba,74208,Midfielder,1993-03-15,Lagny-sur-Marne,France,Right,84,191,6,Central Midfielder,Centre,2016-08-09,,,France,No
+Manchester United,1,Juan Mata,43670,Midfielder,1988-04-28,Burgos,Spain,Left,63,170,8,Attacking Midfielder,Left/Centre/Right,2014-01-25,,,Spain,No
+Manchester United,1,Jesse Lingard,109322,Midfielder,1992-12-15,,,,58,168,14,Attacking Midfielder,Left/Centre/Right,2011-07-01,,,England,No
+Manchester United,1,Michael Carrick,2404,Midfielder,1981-07-28,Wallsend,England,,74,188,16,Central Midfielder,Centre,2006-07-31,,,England,No
+Manchester United,1,Ashley Young,18892,Midfielder,1985-07-09,,,,65,180,18,Winger,Left/Right,2011-06-23,,,England,No
+Manchester United,1,Ander Herrera,59846,Midfielder,1989-08-14,Bilbao,Spain,Both,70,182,21,Central Midfielder,Centre,2014-07-01,,,Spain,No
+Manchester United,1,Henrikh Mkhitaryan,57249,Midfielder,1989-01-21,Yerevan,Armenia,Both,75,177,22,Attacking Midfielder,Left/Centre/Right,2016-07-06,,,Armenia,No
+Manchester United,1,Marouane Fellaini,41184,Midfielder,1987-11-22,Brussels,Belgium,,85,194,27,Attacking Midfielder,Centre,2013-09-02,,,Belgium,No
+Manchester United,1,Morgan Schneiderlin,42774,Midfielder,1989-11-08,Obernai,France,,75,181,28,Defensive Midfielder,Centre,2015-07-13,,,France,No
+Manchester United,1,Bastian Schweinsteiger,15208,Midfielder,1984-08-01,Kolbermoor,Germany,Right,79,183,31,Central Midfielder,Centre,2015-07-13,,,Germany,No
+Manchester United,1,Memphis Depay,106824,Forward,1994-02-13,Moordrecht,Netherlands,,78,176,7,Winger,Left/Right,2015-06-12,,,Netherlands,No
+Manchester United,1,Zlatan Ibrahimovic,9808,Forward,1981-10-03,Malmoe,Sweden,Right,95,195,9,Striker,Centre,2016-07-01,,,Sweden,No
+Manchester United,1,Wayne Rooney,13017,Forward,1985-10-24,Liverpool,England,,83,176,10,Second Striker,Centre,2004-08-31,,,England,No
+Manchester United,1,Anthony Martial,148225,Forward,1995-12-05,,,,76,181,11,Second Striker,Left/Centre,2015-09-01,,,France,No
+Manchester United,1,Marcus Rashford,176297,Forward,1997-10-31,,,,70,180,19,Second Striker,Left/Centre,2015-07-01,,,England,No
+Middlesbrough,25,Dimitrios Konstantopoulos,19101,Goalkeeper,1978-11-29,,,,90,193,1,Goalkeeper,Unknown,2013-08-16,,,Greece,No
+Middlesbrough,25,Brad Guzan,41705,Goalkeeper,1984-09-09,Evergreen Park,USA,Left,94,193,12,Goalkeeper,Unknown,2016-07-29,,,USA,No
+Middlesbrough,25,Tomás Mejías,51942,Goalkeeper,1989-01-30,Madrid,Spain,,84,195,13,Goalkeeper,Unknown,2014-07-04,,,Spain,No
+Middlesbrough,25,Víctor Valdés,12496,Goalkeeper,1982-01-14,Barcelona,Spain,Right,78,183,26,Goalkeeper,Unknown,2016-07-01,,,Spain,No
+Middlesbrough,25,Fabio,54771,Defender,1990-07-09,,,,65,172,Unknown,Full Back,Left,2016-08-12,,,Brazil,No
+Middlesbrough,25,George Friend,40202,Defender,1987-10-17,,,,83,188,3,Full Back,Left/Centre,2012-07-30,,,England,No
+Middlesbrough,25,Daniel Ayala,75880,Defender,1990-11-07,,Spain,,81,190,4,Central Defender,Centre,2014-01-24,,,Spain,No
+Middlesbrough,25,Bernardo,55317,Defender,1989-07-11,Cali,Colombia,Right,84,192,5,Central Defender,Centre,2016-07-01,,,Colombia,No
+Middlesbrough,25,Ben Gibson,83312,Defender,1993-01-15,,,,78,185,6,Central Defender,Left/Centre,2009-07-01,,,England,No
+Middlesbrough,25,Alex Baptiste,15633,Defender,1986-01-31,,,,74,180,15,Central Defender,Centre,2015-07-07,,,England,No
+Middlesbrough,25,Antonio Barragán,20399,Defender,1987-06-12,La Coruña,Spain,Right,83,186,17,Full Back,Right,2016-07-16,,,Spain,No
+Middlesbrough,25,Dael Fry,169061,Defender,1997-08-30,,,,72,181,22,Central Defender,Centre,2015-07-01,,,England,No
+Middlesbrough,25,James Husband,90263,Defender,1994-01-03,,,,65,180,40,Full Back,Left,2014-07-30,,,England,No
+Middlesbrough,25,Grant Leadbitter,10460,Midfielder,1986-01-07,,,,68,174,7,Central Midfielder,Centre,2012-07-01,,,England,No
+Middlesbrough,25,Adam Clayton,59044,Midfielder,1989-01-14,,England,,75,175,8,Central Midfielder,Centre,2014-08-13,,,England,No
+Middlesbrough,25,Marten de Roon,82428,Midfielder,1991-03-29,Zwijndrecht,Netherlands,,76,185,14,Central Midfielder,Centre,2016-07-04,,,Netherlands,No
+Middlesbrough,25,Carlos De Pena,153601,Midfielder,1992-03-11,,Uruguay,,74,177,16,Attacking Midfielder,Centre,2015-09-01,,,Uruguay,No
+Middlesbrough,25,Stewart Downing,12002,Midfielder,1984-07-22,,,,64,180,19,Winger,Left/Right,2015-07-17,,,England,No
+Middlesbrough,25,Adam Reach,96778,Midfielder,1993-02-03,,,,73,185,20,Winger,Left,2010-07-01,,,England,No
+Middlesbrough,25,Gastón Ramírez,78091,Midfielder,1990-12-02,Frey Bentos,Uruguay,Left,77,183,21,Attacking Midfielder,Left/Centre/Right,2016-07-22,,,Uruguay,No
+Middlesbrough,25,Julien de Sart,169535,Midfielder,1994-12-23,,,,68,182,23,Central Midfielder,Centre,2016-02-01,,,Belgium,No
+Middlesbrough,25,Nsue,48771,Midfielder,1989-09-30,Palma de Mallorca,Spain,Right,75,182,24,Winger,Right,2014-08-01,,,Equatorial Guinea,No
+Middlesbrough,25,Albert Adomah,49773,Midfielder,1987-12-13,Lambeth,England,,73,185,27,Winger,Left/Right,2013-08-08,,,Ghana,No
+Middlesbrough,25,Adam Forshaw,80179,Midfielder,1991-10-08,,,,71,185,34,Attacking Midfielder,Centre,2015-01-28,,,England,No
+Middlesbrough,25,Jordan Rhodes,20047,Forward,1990-02-05,,,,71,185,9,Striker,Centre,2016-02-01,,,Scotland,No
+Middlesbrough,25,Álvaro Negredo,42892,Forward,1985-08-20,Madrid,Spain,Left,86,186,10,Striker,Centre,2016-07-20,,,Spain,No
+Middlesbrough,25,Viktor Fischer,123125,Forward,1994-06-09,Aarhus,Denmark,,81,181,11,Winger,Left/Right,2016-07-01,,,Denmark,No
+Middlesbrough,25,Cristhian Stuani,49464,Forward,1986-10-12,Tala,Uruguay,Right,77,186,18,Striker,Centre,2015-08-07,,,Uruguay,No
+Middlesbrough,25,David Nugent,12744,Forward,1985-05-02,,,,76,180,35,Striker,Centre,2015-08-14,,,England,No
+Southampton,20,Fraser Forster,40383,Goalkeeper,1988-03-17,Hexham,England,,93,201,1,Goalkeeper,Unknown,2014-08-09,,,England,No
+Southampton,20,Alex McCarthy,58376,Goalkeeper,1989-12-03,,,,79,193,13,Goalkeeper,Unknown,2016-08-01,,,England,No
+Southampton,20,Cédric Soares,58822,Defender,1991-08-31,,Germany,,67,172,2,Full Back,Right,2015-06-18,,,Portugal,No
+Southampton,20,Maya Yoshida,80447,Defender,1988-08-24,Nagasaki,Japan,,78,189,3,Central Defender,Centre,2012-08-31,,,Japan,No
+Southampton,20,Florin Gardos,84395,Defender,1988-10-29,,Romania,,84,193,5,Central Defender,Centre,2014-08-14,,,Romania,No
+Southampton,20,José Fonte,38580,Defender,1983-12-22,,,,81,187,6,Central Defender,Centre,2010-01-09,,,Portugal,No
+Southampton,20,Cuco Martina,56192,Defender,1989-09-25,Rotterdam,Netherlands,,77,185,15,Full Back,Right,2015-07-07,,,Curaçao,No
+Southampton,20,Virgil van Dijk,97032,Defender,1991-07-08,,,,92,193,17,Central Defender,Centre,2015-09-01,,,Netherlands,No
+Southampton,20,Ryan Bertrand,40146,Defender,1989-08-05,,,,85,179,21,Full Back,Left,2015-02-01,,,England,No
+Southampton,20,Jérémy Pied,40833,Defender,1989-02-23,,,,69,173,26,Full Back,Right,2016-08-01,,,France,No
+Southampton,20,Matt Targett,169359,Defender,1995-09-18,,,,70,183,33,Full Back,Left,2013-07-01,,,England,No
+Southampton,20,Jordy Clasie,85654,Midfielder,1991-06-27,Haarlem,Netherlands,,66,169,4,Central Midfielder,Centre,2015-07-15,,,Netherlands,No
+Southampton,20,Steven Davis,17339,Midfielder,1985-01-01,,,,70,173,8,Central Midfielder,Centre/Right,2012-07-22,,,Northern Ireland,No
+Southampton,20,Dusan Tadic,62399,Midfielder,1988-11-20,Backa Topola,Serbia,,76,181,11,Winger,Left/Right,2014-07-08,,,Serbia,No
+Southampton,20,Oriol Romeu,78056,Midfielder,1991-09-24,Ulldecona,Spain,Right,83,183,14,Defensive Midfielder,Centre,2015-08-12,,,Spain,No
+Southampton,20,James Ward-Prowse,101178,Midfielder,1994-11-01,,,,66,173,16,Central Midfielder,Centre,2011-07-01,,,England,No
+Southampton,20,Harrison Reed,153366,Midfielder,1995-01-27,,,,72,181,18,Central Midfielder,Centre,2013-07-01,,,England,No
+Southampton,20,Nathan Redmond,83283,Midfielder,1994-03-06,,,,69,173,22,Winger,Left/Right,2016-06-25,,,England,No
+Southampton,20,Pierre-Emile Højbjerg,132015,Midfielder,1995-08-05,Kobenhavn,Denmark,Right,84,185,23,Central Midfielder,Centre,2016-07-11,,,Denmark,No
+Southampton,20,Shane Long,20452,Forward,1987-01-22,,Republic of Ireland,,70,178,7,Striker,Centre,2014-08-14,,,Republic of Ireland,No
+Southampton,20,Jay Rodriguez,44683,Forward,1989-07-29,Burnley,England,,80,185,9,Second Striker,Left/Centre/Right,2012-06-10,,,England,No
+Southampton,20,Charlie Austin,78356,Forward,1989-07-05,,,,84,188,10,Striker,Centre,2016-01-16,,,England,No
+Stoke City,110,Jack Butland,105666,Goalkeeper,1993-03-10,,,,95,192,1,Goalkeeper,Unknown,2013-01-31,,,England,No
+Stoke City,110,Shay Given,1822,Goalkeeper,1976-04-20,,,,84,183,24,Goalkeeper,Unknown,2015-07-10,,,Republic of Ireland,No
+Stoke City,110,Jakob Haugaard,112316,Goalkeeper,1992-05-01,Sundby,Denmark,Right,87,197,29,Goalkeeper,Unknown,2015-07-01,,,Denmark,No
+Stoke City,110,Phil Bardsley,17997,Defender,1985-06-28,,,,74,180,2,Full Back,Right,2014-07-01,,,Scotland,No
+Stoke City,110,Erik Pieters,39487,Defender,1988-08-07,,,,84,184,3,Full Back,Left,2013-07-01,,,Netherlands,No
+Stoke City,110,Marc Muniesa,61595,Defender,1992-03-27,Girona,Spain,Left,72,179,5,Central Defender,Left/Centre,2013-07-02,,,Spain,No
+Stoke City,110,Glen Johnson,9047,Defender,1984-08-23,Greenwich,England,,70,178,8,Full Back,Left/Right,2015-07-12,,,England,No
+Stoke City,110,Marc Wilson,32318,Defender,1987-08-17,,Northern Ireland,,80,188,12,Central Defender,Left/Centre/Right,2010-08-31,,,Republic of Ireland,No
+Stoke City,110,Ryan Shawcross,37869,Defender,1987-10-04,,,,76,191,17,Central Defender,Centre,2008-01-01,,,England,No
+Stoke City,110,Geoff Cameron,50089,Defender,1985-07-11,Attleboro,USA,Right,84,191,20,Full Back,Centre/Right,2012-08-08,,,USA,No
+Stoke City,110,Philipp Wollscheid,69960,Defender,1989-03-06,Wadern,Germany,Right,88,194,26,Central Defender,Centre,2015-01-07,,,Germany,No
+Stoke City,110,Joe Allen,40555,Midfielder,1990-03-14,,,,62,168,4,Central Midfielder,Centre,2016-07-25,,,Wales,No
+Stoke City,110,Glenn Whelan,12150,Midfielder,1984-01-13,,Republic of Ireland,,79,180,6,Central Midfielder,Centre,2008-01-31,,,Republic of Ireland,No
+Stoke City,110,Stephen Ireland,20481,Midfielder,1986-08-22,,,,68,176,7,Central Midfielder,Centre,2014-01-14,,,Republic of Ireland,No
+Stoke City,110,Ibrahim Afellay,19568,Midfielder,1986-04-02,Utrecht,Netherlands,Right,76,180,14,Winger,Left/Right,2015-07-27,,,Netherlands,No
+Stoke City,110,Charlie Adam,20208,Midfielder,1985-12-10,,,,83,185,16,Central Midfielder,Left/Centre,2012-08-31,,,Scotland,No
+Stoke City,110,Giannelli Imbula,102738,Midfielder,1992-09-12,,,,78,186,21,Defensive Midfielder,Centre,2016-02-01,,,France,No
+Stoke City,110,Xherdan Shaqiri,68312,Midfielder,1991-10-10,Gjilan,Kosovo,Both,72,169,22,Attacking Midfielder,Centre/Right,2015-08-11,,,Switzerland,No
+Stoke City,110,Ramadan Sobhi,205102,Midfielder,1997-06-27,Cairo,Egypt,,75,183,32,Winger,Left/Right,2016-07-25,,,Egypt,No
+Stoke City,110,Joselu,61316,Forward,1990-03-27,Stuttgart,Germany,Right,80,192,9,Striker,Centre,2015-07-08,,,Spain,No
+Stoke City,110,Marko Arnautovic,41464,Forward,1989-04-19,Wien,Austria,Right,83,192,10,Second Striker,Left/Right,2013-09-02,,,Austria,No
+Stoke City,110,Mame Biram Diouf,61858,Forward,1987-12-16,Dakar,Senegal,Right,79,185,18,Striker,Centre,2014-07-01,,,Senegal,No
+Stoke City,110,Jonathan Walters,12813,Forward,1983-09-20,,,,79,183,19,Second Striker,Left/Centre/Right,2010-08-18,,,Republic of Ireland,No
+Stoke City,110,Peter Crouch,3773,Forward,1981-01-30,,,,75,201,25,Striker,Centre,2011-08-31,,,England,No
+Stoke City,110,Bojan,40276,Forward,1990-08-28,Lleida,Spain,Right,65,170,27,Striker,Left/Centre/Right,2014-07-22,,,Spain,No
+Sunderland,56,Vito Mannone,20487,Goalkeeper,1988-03-02,,,,80,188,1,Goalkeeper,Unknown,2013-07-03,,,Italy,No
+Sunderland,56,Jordan Pickford,111234,Goalkeeper,1994-03-07,,,,77,185,13,Goalkeeper,Unknown,2011-07-01,,,England,No
+Sunderland,56,Billy Jones,11467,Defender,1987-03-24,,,,77,183,2,Full Back,Right,2014-07-01,,,England,No
+Sunderland,56,Patrick van Aanholt,74230,Defender,1990-08-29,'s-Hertogenbosch,Netherlands,,74,177,3,Full Back,Left,2014-07-25,,,Netherlands,No
+Sunderland,56,Younes Kaboul,37742,Defender,1986-01-04,,,,75,182,4,Central Defender,Centre,2015-07-16,,,France,No
+Sunderland,56,Papy Djilobodji,80935,Defender,1988-12-01,Kaolack,Senegal,Left,82,193,5,Central Defender,Centre,2016-08-05,,,Senegal,No
+Sunderland,56,John O'Shea,3736,Defender,1981-04-30,,,,75,191,16,Central Defender,Left/Centre/Right,2011-07-07,,,Republic of Ireland,No
+Sunderland,56,Paddy McNair,160817,Defender,1995-04-27,,Northern Ireland,,72,183,19,Central Defender,Centre,2016-08-11,,,Northern Ireland,No
+Sunderland,56,Donald Love,160816,Defender,1994-12-02,Rochdale,England,,72,178,22,Full Back,Right,2016-08-11,,,Scotland,No
+Sunderland,56,Lamine Koné,45076,Defender,1989-02-01,,,,83,186,23,Central Defender,Centre,2016-01-27,,,Côte d'Ivoire,No
+Sunderland,56,Lee Cattermole,28448,Midfielder,1988-03-21,,,,76,178,6,Defensive Midfielder,Centre,2009-08-12,,,England,No
+Sunderland,56,Sebastian Larsson,19057,Midfielder,1985-06-06,,,,70,178,7,Central Midfielder,Centre/Right,2011-07-01,,,Sweden,No
+Sunderland,56,Jack Rodwell,49384,Midfielder,1991-03-11,,,,80,188,8,Defensive Midfielder,Centre,2014-08-05,,,England,No
+Sunderland,56,Wahbi Khazri,60165,Midfielder,1991-02-08,Ajaccio,France,,76,182,10,Attacking Midfielder,Left/Centre/Right,2016-01-30,,,Tunisia,No
+Sunderland,56,Jan Kirchhoff,57736,Midfielder,1990-10-01,Frankfurt am Main,Germany,Right,90,195,27,Defensive Midfielder,Centre,2016-01-07,,,Germany,No
+Sunderland,56,Joel Asoro,219727,Midfielder,1999-04-27,,Sweden,,Unknown,Unknown,29,Unknown,Unknown,2016-08-04,,,Sweden,No
+Sunderland,56,Adnan Januzaj,154976,Midfielder,1995-02-05,Bruxelles,Belgium,Left,75,180,44,Attacking Midfielder,Left/Centre/Right,2016-08-12,,,Belgium,No
+Sunderland,56,Fabio Borini,77454,Forward,1991-03-29,Bentivoglio,Italy,Right,73,178,9,Second Striker,Left/Centre/Right,2015-08-31,,,Italy,No
+Sunderland,56,Duncan Watmore,115854,Forward,1994-03-08,,,,72,175,14,Second Striker,Left/Centre/Right,2013-07-01,,,England,No
+Sunderland,56,Jeremain Lens,39187,Forward,1987-11-24,Amsterdam,Netherlands,,80,178,17,Winger,Left/Right,2015-07-15,,,Netherlands,No
+Sunderland,56,Jermain Defoe,7958,Forward,1982-10-07,Beckton,England,,65,171,18,Striker,Centre,2015-01-16,,,England,No
+Sunderland,56,Lynden Gooch,149016,Forward,1995-12-24,,,,69,173,46,Winger,Right,2015-08-25,,,USA,No
+Swansea City,80,Lukasz Fabianski,37096,Goalkeeper,1985-04-18,,,,83,190,1,Goalkeeper,Unknown,2014-07-01,,,Poland,No
+Swansea City,80,Kristoffer Nordfeldt,61760,Goalkeeper,1989-06-23,Stockholm,Sweden,,85,190,13,Goalkeeper,Unknown,2015-06-23,,,Sweden,No
+Swansea City,80,Mark Birighitti,102907,Goalkeeper,1991-04-17,Perth,Australia,,84,189,19,Goalkeeper,Unknown,2016-07-18,,,Australia,No
+Swansea City,80,Jordi Amat,80789,Defender,1992-03-21,Barcelona,Spain,Right,78,184,2,Central Defender,Centre,2013-06-27,,,Spain,No
+Swansea City,80,Neil Taylor,47390,Defender,1989-02-07,,,,65,175,3,Full Back,Left,2010-06-30,,,Wales,No
+Swansea City,80,Mike van der Hoorn,97615,Defender,1992-10-15,Almere,Netherlands,,81,190,5,Central Defender,Centre,2016-07-06,,,Netherlands,No
+Swansea City,80,Franck Tabanou,55313,Defender,1989-01-30,,,,78,178,14,Full Back,Left,2015-06-19,,,France,No
+Swansea City,80,Angel Rangel,42996,Defender,1982-10-28,,,,84,188,22,Full Back,Right,2007-06-29,,,Spain,No
+Swansea City,80,Kyle Naughton,49539,Defender,1988-11-11,,,,73,175,26,Full Back,Right,2015-01-22,,,England,No
+Swansea City,80,Federico Fernández,57145,Defender,1989-02-21,Tres Algarrobos,Argentina,Right,83,190,33,Central Defender,Centre,2014-08-20,,,Argentina,No
+Swansea City,80,Stephen Kingsley,96306,Defender,1994-07-23,,,,67,178,35,Full Back,Left,2015-07-01,,,Scotland,No
+Swansea City,80,Ki Sung-yueng,76542,Midfielder,1989-01-24,Gwangiu,Korea Republic,,79,187,4,Central Midfielder,Centre,2012-08-24,,,Korea Republic,No
+Swansea City,80,Leon Britton,15114,Midfielder,1982-09-16,,,,64,168,7,Central Midfielder,Centre,2011-01-20,,,England,No
+Swansea City,80,Leroy Fer,49277,Midfielder,1990-01-05,Zoetermeer,Netherlands,,79,188,8,Central Midfielder,Centre,2016-07-05,,,Netherlands,No
+Swansea City,80,Nathan Dyer,21083,Midfielder,1987-11-29,,,,60,165,12,Winger,Right,2009-07-01,,,England,No
+Swansea City,80,Wayne Routledge,11829,Midfielder,1985-01-07,,,,64,170,15,Winger,Right,2011-08-04,,,England,No
+Swansea City,80,Jefferson Montero,49195,Midfielder,1989-09-01,Babahoyo,Ecuador,Left,68,170,20,Winger,Left/Right,2014-07-24,,,Ecuador,No
+Swansea City,80,Gylfi Sigurdsson,55422,Midfielder,1989-09-08,,Iceland,,79,186,23,Attacking Midfielder,Centre,2014-07-23,,,Iceland,No
+Swansea City,80,Jack Cork,40145,Midfielder,1989-06-25,,,,70,183,24,Central Midfielder,Centre,2015-01-30,,,England,No
+Swansea City,80,Jay Fulton,96305,Midfielder,1994-04-01,,England,,68,178,56,Attacking Midfielder,Centre,2014-01-31,,,Scotland,No
+Swansea City,80,Fernando Llorente,19760,Forward,1985-02-26,Pamplona,Spain,Both,90,195,9,Striker,Centre,2016-08-05,,,Spain,No
+Swansea City,80,Borja Bastón,83091,Forward,1992-08-25,Madrid,Spain,Right,82,191,10,Striker,Centre,2016-08-11,,,Spain,No
+Swansea City,80,Marvin Emnes,39270,Forward,1988-05-27,,,,66,180,11,Striker,Centre,2014-07-02,,,Netherlands,No
+Swansea City,80,Modou Barrow,111787,Forward,1992-10-13,,,,63,176,17,Second Striker,Left/Right,2014-09-01,,,Gambia,No
+Tottenham Hotspur,6,Hugo Lloris,37915,Goalkeeper,1986-12-26,Nice,France,,73,188,1,Goalkeeper,Unknown,2012-08-31,,,France,No
+Tottenham Hotspur,6,Michel Vorm,39215,Goalkeeper,1983-10-20,IJsselstein,Netherlands,,84,183,13,Goalkeeper,Unknown,2014-07-23,,,Netherlands,No
+Tottenham Hotspur,6,Kyle Walker,58621,Defender,1990-05-28,Sheffield,England,,70,178,2,Full Back,Right,2009-07-22,,,England,No
+Tottenham Hotspur,6,Danny Rose,38290,Defender,1990-07-02,,,,72,173,3,Full Back,Left,2007-07-26,,,England,No
+Tottenham Hotspur,6,Toby Alderweireld,55605,Defender,1989-03-02,Antwerp,Belgium,,81,186,4,Central Defender,Centre/Right,2015-07-08,,,Belgium,No
+Tottenham Hotspur,6,Jan Vertonghen,39194,Defender,1987-04-24,Sint-Niklaas,Belgium,,86,189,5,Central Defender,Centre,2012-07-12,,,Belgium,No
+Tottenham Hotspur,6,Kieran Trippier,77794,Defender,1990-09-19,,,,71,178,16,Full Back,Right,2015-07-01,,,England,No
+Tottenham Hotspur,6,Kevin Wimmer,97485,Defender,1992-11-15,Wels,Austria,Left,85,187,27,Central Defender,Centre,2015-07-01,,,Austria,No
+Tottenham Hotspur,6,Ben Davies,115556,Defender,1993-04-24,,,,76,181,33,Full Back,Left,2014-07-23,,,Wales,No
+Tottenham Hotspur,6,DeAndre Yedlin,151119,Defender,1993-07-09,Seattle,USA,Right,73,173,36,Full Back,Right,2014-08-13,,,USA,No
+Tottenham Hotspur,6,Cameron Carter-Vickers,168763,Defender,1997-12-31,,,Left,86,185,38,Central Defender,Left/Centre,2015-07-01,,,USA,No
+Tottenham Hotspur,6,Nabil Bentaleb,126407,Midfielder,1994-11-24,Lille,France,,68,187,6,Central Midfielder,Centre,2013-07-01,,,Algeria,No
+Tottenham Hotspur,6,Son Heung-Min,85971,Midfielder,1992-07-08,Chuncheon,Korea Republic,Both,79,184,7,Winger,Left/Right,2015-08-28,,,Korea Republic,No
+Tottenham Hotspur,6,Ryan Mason,58791,Midfielder,1991-06-13,,,,68,175,8,Central Midfielder,Centre,2008-07-01,,,England,No
+Tottenham Hotspur,6,Erik Lamela,62974,Midfielder,1992-03-04,Florida,Argentina,Left,79,183,11,Attacking Midfielder,Centre/Right,2013-08-30,,,Argentina,No
+Tottenham Hotspur,6,Victor Wanyama,54756,Midfielder,1991-06-25,,Kenya,,76,188,12,Defensive Midfielder,Centre,2016-07-01,,,Kenya,No
+Tottenham Hotspur,6,Eric Dier,93264,Midfielder,1994-01-15,Cheltenham,England,,88,188,15,Defensive Midfielder,Centre,2014-08-01,,,England,No
+Tottenham Hotspur,6,Mousa Dembélé,39104,Midfielder,1987-07-16,Wilrijk,Belgium,,82,185,19,Central Midfielder,Left/Centre,2012-08-29,,,Belgium,No
+Tottenham Hotspur,6,Dele Alli,108823,Midfielder,1996-04-11,,,,76,188,20,Attacking Midfielder,Centre,2015-02-02,,,England,No
+Tottenham Hotspur,6,Nacer Chadli,54908,Midfielder,1989-08-02,Liège,Belgium,,80,189,22,Winger,Left/Right,2013-07-29,,,Belgium,No
+Tottenham Hotspur,6,Christian Eriksen,80607,Midfielder,1992-02-14,,,,71,175,23,Attacking Midfielder,Left/Centre/Right,2013-08-30,,,Denmark,No
+Tottenham Hotspur,6,Josh Onomah,168765,Midfielder,1997-04-27,,,,64,180,25,Central Midfielder,Centre,2013-07-01,,,England,No
+Tottenham Hotspur,6,Tom Carroll,93464,Midfielder,1992-05-28,,,,71,177,28,Central Midfielder,Centre,2010-07-01,,,England,No
+Tottenham Hotspur,6,Harry Winks,157668,Midfielder,1996-02-02,,,,65,178,29,Central Midfielder,Centre,2013-07-01,,,England,No
+Tottenham Hotspur,6,Vincent Janssen,165990,Forward,1994-06-15,Heesch,Netherlands,,79,180,9,Striker,Centre,2016-07-12,,,Netherlands,No
+Tottenham Hotspur,6,Harry Kane,78830,Forward,1993-07-28,,,,65,188,10,Striker,Centre,2009-07-01,,,England,No
+Tottenham Hotspur,6,Clinton N'Jie,145212,Forward,1993-08-15,,,,68,175,14,Second Striker,Left/Centre/Right,2015-08-14,,,Cameroon,No
+Watford,57,Heurelho Gomes,18656,Goalkeeper,1981-02-15,Joao Pinheiro,Brazil,Right,91,191,1,Goalkeeper,Unknown,2014-07-01,,,Brazil,No
+Watford,57,Rene Gilmartin,26719,Goalkeeper,1987-05-31,,,,85,196,13,Goalkeeper,Unknown,2014-08-25,,,Republic of Ireland,No
+Watford,57,Costel Pantilimon,56827,Goalkeeper,1987-02-01,,,,96,203,30,Goalkeeper,Unknown,2016-01-19,,,Romania,No
+Watford,57,Giedrius Arlauskis,57187,Goalkeeper,1987-12-01,Telsiai,Lithuania,Left,80,184,34,Goalkeeper,Unknown,2015-07-01,,,Lithuania,No
+Watford,57,Nyom,67527,Defender,1988-05-10,Neuilly-sur-Seine,France,Right,81,189,2,Full Back,Right,2015-07-14,,,Cameroon,No
+Watford,57,Miguel Britos,52153,Defender,1985-07-17,Montevideo,Uruguay,Left,82,188,3,Central Defender,Left/Centre,2015-07-20,,,Uruguay,No
+Watford,57,Sebastian Prödl,41945,Defender,1987-06-21,Graz,Austria,Right,92,194,5,Central Defender,Centre,2015-07-01,,,Austria,No
+Watford,57,Juan Carlos Paredes,98780,Defender,1987-07-08,Esmeraldas,Ecuador,Right,72,174,14,Full Back,Unknown,2014-07-16,,,Ecuador,No
+Watford,57,Craig Cathcart,41338,Defender,1989-02-06,,,,73,188,15,Central Defender,Centre,2014-07-01,,,Northern Ireland,No
+Watford,57,Juan Zuñiga,42738,Defender,1985-12-14,Chigorodó,Colombia,Right,72,172,18,Wing Back,Left/Right,2016-07-16,,,Colombia,No
+Watford,57,José Holebas,40868,Defender,1984-06-27,Aschaffenburg,Germany,,77,184,25,Full Back,Left,2015-07-01,,,Greece,No
+Watford,57,Brice Dja Djédjé,86431,Defender,1990-12-23,Aboudé,Côte d'Ivoire,,71,170,26,Full Back,Right,2016-07-21,,,Côte d'Ivoire,No
+Watford,57,Christian Kabasele,85624,Defender,1991-02-24,,Congo DR,,84,186,27,Central Defender,Centre,2016-07-01,,,Belgium,No
+Watford,57,Tommie Hoban,97296,Defender,1994-01-24,,England,,84,189,31,Central Defender,Unknown,2010-07-01,,,Republic of Ireland,No
+Watford,57,Mario Suárez,28160,Midfielder,1987-02-24,Madrid,Spain,Right,80,188,4,Central Midfielder,Centre,2016-01-30,,,Spain,No
+Watford,57,Nordin Amrabat,44604,Midfielder,1987-03-31,,Netherlands,Right,77,178,7,Attacking Midfielder,Left/Centre/Right,2016-01-18,,,Morocco,No
+Watford,57,Valon Behrami,21123,Midfielder,1985-04-19,Mitrovica,Kosovo,Right,78,185,11,Central Midfielder,Centre/Right,2015-07-11,,,Switzerland,No
+Watford,57,Abdoulaye Doucouré,121599,Midfielder,1993-01-01,,,,75,183,16,Central Midfielder,Centre,2016-02-01,,,France,No
+Watford,57,Adlène Guédioura,44302,Midfielder,1985-11-12,La Roche-sur-Yon,France,,74,183,17,Central Midfielder,Centre,2015-09-01,,,Algeria,No
+Watford,57,Ikechi Anya,19342,Midfielder,1988-01-03,Glasgow,Scotland,Right,58,168,21,Winger,Left/Right,2013-07-22,,,Scotland,No
+Watford,57,Ben Watson,16045,Midfielder,1985-07-09,,,,68,178,23,Central Midfielder,Centre,2015-01-23,,,England,No
+Watford,57,Etienne Capoue,38439,Midfielder,1988-07-11,,,,80,189,29,Defensive Midfielder,Centre,2015-07-06,,,France,No
+Watford,57,Troy Deeney,41725,Forward,1988-06-29,,,,76,180,9,Striker,Centre,2010-08-05,,,England,No
+Watford,57,Isaac Success,173514,Forward,1996-01-07,,Nigeria,,86,186,10,Striker,Centre,2016-07-01,,,Nigeria,No
+Watford,57,Jerome Sinclair,133801,Forward,1996-09-20,,,,79,173,19,Striker,Centre,2016-07-01,,,England,No
+Watford,57,Matej Vydra,81183,Forward,1992-05-01,Chotěboř,Czech Republic,,71,180,20,Striker,Centre,2014-07-01,,,Czech Republic,No
+Watford,57,Odion Ighalo,58498,Forward,1989-06-16,Lagos,Nigeria,Right,70,188,24,Striker,Unknown,2014-10-25,,,Nigeria,No
+West Bromwich Albion,35,Ben Foster,9089,Goalkeeper,1983-04-03,Leamington Spa,England,,79,193,1,Goalkeeper,Unknown,2012-07-30,,,England,No
+West Bromwich Albion,35,Boaz Myhill,12086,Goalkeeper,1982-11-09,,,,91,191,13,Goalkeeper,Unknown,2010-07-30,,,Wales,No
+West Bromwich Albion,35,Jonas Olsson,39253,Defender,1983-03-10,,,,85,195,3,Central Defender,Centre,2008-09-01,,,Sweden,No
+West Bromwich Albion,35,Jonny Evans,37642,Defender,1988-01-03,,,,77,188,6,Central Defender,Centre,2015-08-29,,,Northern Ireland,No
+West Bromwich Albion,35,Sébastien Pocognoli,42583,Defender,1987-08-01,Liège,Belgium,Left,78,182,15,Full Back,Left,2014-07-12,,,Belgium,No
+West Bromwich Albion,35,Cristian Gamboa,77760,Defender,1989-10-24,Liberia,Costa Rica,Right,67,175,16,Full Back,Right,2014-08-05,,,Costa Rica,No
+West Bromwich Albion,35,Gareth McAuley,19272,Defender,1979-12-05,,,,70,191,23,Central Defender,Centre,2011-07-01,,,Northern Ireland,No
+West Bromwich Albion,35,Craig Dawson,60232,Defender,1990-05-06,,,,78,188,25,Central Defender,Centre,2010-08-31,,,England,No
+West Bromwich Albion,35,Kane Wilson,215457,Defender,2000-03-11,,,,Unknown,Unknown,49,Full Back,Right,2016-07-01,,,England,No
+West Bromwich Albion,35,Claudio Yacob,55829,Midfielder,1987-07-18,Santa Fé,Argentina,Right,77,181,5,Defensive Midfielder,Centre,2012-07-24,,,Argentina,No
+West Bromwich Albion,35,James Morrison,18008,Midfielder,1986-05-25,,,,64,178,7,Winger,Right,2007-08-07,,,Scotland,No
+West Bromwich Albion,35,Craig Gardner,28468,Midfielder,1986-11-25,,,,76,178,8,Central Midfielder,Centre/Right,2014-07-01,,,England,No
+West Bromwich Albion,35,Matt Phillips,50229,Midfielder,1991-03-13,,England,,75,185,10,Winger,Left/Right,2016-07-06,,,Scotland,No
+West Bromwich Albion,35,Chris Brunt,19151,Midfielder,1984-12-14,,,,84,185,11,Attacking Midfielder,Left,2007-08-15,,,Northern Ireland,No
+West Bromwich Albion,35,James McClean,63370,Midfielder,1989-04-22,,Northern Ireland,,70,180,14,Winger,Left,2015-06-22,,,Republic of Ireland,No
+West Bromwich Albion,35,Callum McManaman,61538,Midfielder,1991-04-25,,,,74,174,19,Winger,Right,2015-01-28,,,England,No
+West Bromwich Albion,35,Darren Fletcher,14295,Midfielder,1984-02-01,,,,83,183,24,Central Midfielder,Centre,2015-02-02,,,Scotland,No
+West Bromwich Albion,35,Jonathan Leko,173809,Midfielder,1999-04-24,,,,75,182,45,Attacking Midfielder,Left/Right,2015-09-22,,,England,No
+West Bromwich Albion,35,Sam Field,195864,Midfielder,1998-05-08,,England,,65,180,47,Central Midfielder,Centre,2015-07-01,,,England,No
+West Bromwich Albion,35,Salomón Rondón,57134,Forward,1989-09-16,Caracas,Venezuela,Right,85,189,9,Striker,Centre,2015-08-10,,,Venezuela,No
+West Bromwich Albion,35,Rickie Lambert,11037,Forward,1982-02-16,Kirkby,England,,77,188,17,Striker,Centre,2015-07-31,,,England,No
+West Bromwich Albion,35,Saido Berahino,91972,Forward,1993-08-04,,Burundi,,77,178,18,Striker,Centre,2010-07-01,,,England,No
+West Ham United,21,Darren Randolph,32259,Goalkeeper,1987-05-12,,,,98,188,1,Goalkeeper,Unknown,2015-07-01,,,Republic of Ireland,No
+West Ham United,21,Adrián,60706,Goalkeeper,1987-01-03,Sevilla,Spain,,80,190,13,Goalkeeper,Unknown,2013-07-01,,,Spain,No
+West Ham United,21,Raphael Spiegel,82257,Goalkeeper,1992-12-19,,,,89,197,34,Goalkeeper,Unknown,2012-07-23,,,Switzerland,No
+West Ham United,21,Winston Reid,48717,Defender,1988-07-03,,,,87,190,2,Central Defender,Centre/Right,2010-08-05,,,New Zealand,No
+West Ham United,21,Aaron Cresswell,55459,Defender,1989-12-15,,,,66,170,3,Full Back,Left,2014-07-03,,,England,No
+West Ham United,21,James Collins,8380,Defender,1983-08-23,,,,83,188,19,Central Defender,Centre,2012-08-01,,,Wales,No
+West Ham United,21,Angelo Ogbonna,40669,Defender,1988-05-23,Cassino,Italy,Left,86,191,21,Central Defender,Left/Centre,2015-07-10,,,Italy,No
+West Ham United,21,Sam Byram,113564,Defender,1993-09-16,,,,72,180,22,Full Back,Right,2016-01-20,,,England,No
+West Ham United,21,Doneil Henry,88812,Defender,1993-04-20,Brampton,Canada,,82,188,25,Central Defender,Centre,2015-01-03,,,Canada,No
+West Ham United,21,Arthur Masuaku,105717,Defender,1993-11-11,,,,70,179,26,Full Back,Left,2016-08-08,,,France,No
+West Ham United,21,Reece Oxford,173792,Defender,1998-12-16,,England,,71,178,35,Central Defender,Centre,2014-08-25,,,England,No
+West Ham United,21,Håvard Nordtveit,43626,Midfielder,1990-06-21,Vats,Norway,Right,83,188,4,Defensive Midfielder,Centre,2016-07-01,,,Norway,No
+West Ham United,21,Sofiane Feghouli,44336,Midfielder,1989-12-26,Levallois-Perret,France,Right,75,177,7,Winger,Right,2016-07-01,,,Algeria,No
+West Ham United,21,Cheikhou Kouyaté,55037,Midfielder,1989-12-21,,,,83,189,8,Central Midfielder,Centre,2014-07-01,,,Senegal,No
+West Ham United,21,Manuel Lanzini,86934,Midfielder,1993-02-15,San Antonio de Padua,Argentina,Right,59,167,10,Attacking Midfielder,Left/Centre/Right,2016-07-01,,,Argentina,No
+West Ham United,21,Pedro Obiang,59779,Midfielder,1992-03-27,Madrid,Spain,Mostly Right,75,185,14,Central Midfielder,Left/Centre,2015-07-01,,,Spain,No
+West Ham United,21,Mark Noble,18073,Midfielder,1987-05-08,,,,70,180,16,Central Midfielder,Centre,2003-07-01,,,England,No
+West Ham United,21,Gökhan Töre,59796,Midfielder,1992-01-20,,Germany,,74,176,17,Winger,Right,2016-07-11,,,Turkey,No
+West Ham United,21,Dimitri Payet,37901,Midfielder,1987-03-29,,,,77,175,27,Attacking Midfielder,Left/Centre/Right,2015-07-01,,,France,No
+West Ham United,21,Michail Antonio,57531,Midfielder,1990-03-28,,,,82,180,30,Winger,Left/Right,2015-09-01,,,England,No
+West Ham United,21,Jonathan Calleri,168287,Forward,1993-09-23,Buenos Aires,Argentina,Right,75,179,Unknown,Striker,Centre,2016-08-11,,,Argentina,No
+West Ham United,21,Andy Carroll,40142,Forward,1989-01-06,Gateshead,England,,79,193,9,Striker,Centre,2013-07-01,,,England,No
+West Ham United,21,Enner Valencia,148179,Forward,1989-11-04,San Lorenzo,Ecuador,Right,74,174,11,Striker,Centre,2014-07-17,,,Ecuador,No
+West Ham United,21,Diafra Sakho,73889,Forward,1989-12-24,,,,79,184,15,Striker,Centre,2014-08-14,,,Senegal,No
+West Ham United,21,André Ayew,45124,Forward,1989-12-17,Seclin,France,,72,176,20,Second Striker,Left/Centre/Right,2016-08-08,,,Ghana,No
+Bournemouth,91,Shaun MacDonald,20669,Midfielder,1988-06-17,,,,76,185,16,Central Midfielder,Centre,2011-08-25,2016-08-13,Wigan Athletic,Wales,Yes
+Sunderland,56,Charalampos Mavrias,88601,Midfielder,1994-02-21,Zakynthos,Greece,Right,74,178,Unknown,Winger,Right,2013-08-22,2016-08-14,Sunderland U23,Greece,Yes
+Sunderland,56,Liam Bridcutt,49836,Midfielder,1989-05-08,,England,,73,175,Unknown,Defensive Midfielder,Centre,2014-01-31,2016-08-14,Scotland,Scotland,Yes
+Sunderland,56,Jordi Gómez,50023,Midfielder,1985-05-24,,,,74,178,Unknown,Central Midfielder,Unknown,2014-07-01,2016-08-14,Sunderland U23,Spain,Yes
